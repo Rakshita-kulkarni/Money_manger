@@ -153,6 +153,3 @@ See [`server/.env.example`](server/.env.example) for the full list.
 
 ---
 
-## License
-
-MIT
